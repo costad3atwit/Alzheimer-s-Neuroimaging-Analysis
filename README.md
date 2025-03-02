@@ -28,9 +28,7 @@ The dataset used in this project is from **OASIS-3**, an open-access longitudina
 - **Data Visualization**: Seaborn, Matplotlib, Plotly  
 
 ## Results & Findings  
-- Certain brain regions show significant shrinkage correlating with cognitive decline  
-- Machine learning models achieve high accuracy in predicting dementia severity  
-- PCA reveals dominant neuroimaging features contributing to disease progression  
+- Unfinished
 
 ## Future Work  
 - Incorporating deep learning models for improved prediction accuracy  
